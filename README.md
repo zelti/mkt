@@ -1,6 +1,8 @@
 # mkt
 Mean kinetic temperature aggregate function for postgres
 
+**_input temp and output in celsius_**
+
 ### installation
 [Linux]
 1. open your terminal an type
